@@ -35,7 +35,7 @@ The code can be simply run by command line through:
 python3 run.py <design>
 ~~~
 
-where the \<design\> is one of the design options in {axAcc, axArgmax, Bespoke, Dropout0.1_axArgmax, Generic}
+where the <design\> is one of the design options in {axAcc, axArgmax, Bespoke, Dropout0.1_axArgmax, Generic}
 
 ### Example 
 
