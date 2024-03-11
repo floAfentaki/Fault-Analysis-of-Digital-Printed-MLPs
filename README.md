@@ -12,10 +12,27 @@ Pal, P.; Afentaki, F.; Zhao, H.; Saglam, G.; Hefenbrock, M.; Zervakis, G.; Beigl
 
 ## Usage of the code:
 
+### Create the environment
+
+Use the terminal for the following steps:
+
+1. Create the environment from the environment.yml file:
+
+        conda env create -f env.yml
+
+
+The first line of the yml file sets the new environment's name. In our case the environment name is Qkeras.
+
+2. Activate the new environment: 
+    
+        conda activate Qkeras
+
+### How to run it?
+
 The code can be simply run by command line through:
 
 ~~~
-$ python3 run.py
+python3 run.py
 ~~~
 
 where the 
